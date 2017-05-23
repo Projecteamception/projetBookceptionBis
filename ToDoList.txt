@@ -1,0 +1,5 @@
+Faire programme découpage des lettre : Done
+Programme identification de lettre : 
+programme détection de lettre dans la page : 
+programme auto'calibration :
+programme applatissement et resize image :
