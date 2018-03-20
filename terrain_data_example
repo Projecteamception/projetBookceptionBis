@@ -1,0 +1,10 @@
+#all the dims in m
+#v[x,y,h,w] -> vector, centered in x,y and of value (h,w)
+#c[x,y,r] -> circle, centered in x,y, and of radius r
+#w[id,x,y] -> caméra
+#toujours a equilateral triangle, 2 cams are enough to define the third
+#(0,0) par défaut en bas à gauche
+dim=120x90
+camangle=40
+w[1,50,70]
+
